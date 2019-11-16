@@ -13,3 +13,5 @@
     docker-compose up
 
 And voah-la! After installation complete, you will have an awesome docker container with PHP, PHPMyAdmin and MySQL!
+
+#### Your PHP source code will be handled at `www` folder
