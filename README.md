@@ -15,9 +15,9 @@
 And voah-la! After installation complete, you will have an awesome docker container with PHP, PHPMyAdmin and MySQL!
 
 #### Your PHP source code will be handled at `www` folder
-#### PHP will run at `8001` port
-#### MySQL will run at `3306` port
-#### PHPMyadmin will run at `8000` port
+#### PHP will run at `localhost:8001`
+#### MySQL will run at `localhost:3306`
+#### PHPMyadmin will run at `localhost:8000`
 
 ### To stop the server, run the following command line:  
     sudo docker-compose stop
